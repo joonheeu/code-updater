@@ -1,0 +1,25 @@
+[
+  {
+    "path": "src/test1.py",
+    "line": 4,
+    "type": "update",
+    "replace": [
+      "updated line 4 content",
+      "updated line 5 content"
+    ]
+  },
+  {
+    "path": "src/test1.py",
+    "line": 10,
+    "type": "insert",
+    "replace": [
+      "inserted line 10 content",
+      "inserted line 11 content"
+    ]
+  },
+  {
+    "path": "src/test2.py",
+    "line": 15,
+    "type": "delete"
+  }
+]
